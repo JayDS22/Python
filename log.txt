@@ -1,0 +1,27 @@
+DEBUG:root:Add: 10 + 5 = 15
+DEBUG:root:Sub: 10 - 5 = 5
+ERROR:root:Add: 10 + 5 = 15
+ERROR:root:Sub: 10 - 5 = 5
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "<ipython-input-5-040889fd862e>", line 7, in <module>
+    c=a/b
+ZeroDivisionError: division by zero
+ERROR:root:a=3 and b=4 cannot be negative
+WARNING:root:a=3 and b=4 are equal
+INFO:root:Getting Started
+INFO:root:Its Finished
+INFO:root:Getting Started
+INFO:root:Its Finished
+INFO:root:Doing it
+WARNING:root:This shows a warning message
+WARNING:root:This shows a warning message
+INFO:root:Getting Started
+INFO:root:Its Finished
+INFO:root:Doing it
+INFO:root:Member logged in
+INFO:root:Getting Started
+INFO:root:Its Finished
+INFO:root:Doing it
+INFO:root:Member logged in
+INFO:root:Member logged in
